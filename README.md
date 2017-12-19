@@ -4,7 +4,7 @@
 git clone https://github.com/nfc-tools/libnfc.git
 ``
 
-###References:
+### References:
 1. [**RASPBERRY PI DRIVES ITEAD PN532 NFC MODULE WITH LIBNFC**](https://www.itead.cc/blog/raspberry-pi-drives-itead-pn532-nfc-module-with-libnfc)
 2. [**Using a PN532 NFC RFID Reader with the Raspberry Pi**](http://www.jamesrobertson.eu/blog/2016/feb/08/using-a-pn532-nfc-rfid-reader-with-the-raspberry-pi.html)
 3. [**PN532 NFC RFID Module User Guide**](https://drive.google.com/file/d/0B2_rhDNAxM4sZV82SWg3VTNxRGc/view?usp=sharing)
