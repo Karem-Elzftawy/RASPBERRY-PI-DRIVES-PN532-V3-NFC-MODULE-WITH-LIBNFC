@@ -12,3 +12,4 @@ git clone https://github.com/nfc-tools/libnfc.git
 5. [**Writing and Reading Data to NFC Cards and RFID Tags with Raspberry Pi and PN532 Module**](https://www.anavi.org/article/210/)
 6. [**Book management using NFC reader**](https://github.com/gbsoares/NFC-Library)
 7. [**Raspberry Pi Interface with PN532 NFC Module**](http://denethor.wlu.ca/raspberry_pi/rpi_PN532_nfc.shtml)
+8. [**SPI & elechouse v3 nfc reader not working**](https://www.raspberrypi.org/forums/viewtopic.php?f=44&t=175680)
