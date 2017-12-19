@@ -10,3 +10,5 @@ git clone https://github.com/nfc-tools/libnfc.git
 3. [**PN532 NFC RFID Module User Guide**](https://drive.google.com/file/d/0B2_rhDNAxM4sZV82SWg3VTNxRGc/view?usp=sharing)
 4. [**Adafruit NFC/RFID on Raspberry Pi**](https://learn.adafruit.com/adafruit-nfc-rfid-on-raspberry-pi?view=all)
 5. [**Writing and Reading Data to NFC Cards and RFID Tags with Raspberry Pi and PN532 Module**](https://www.anavi.org/article/210/)
+6. [**Book management using NFC reader**](https://github.com/gbsoares/NFC-Library)
+7. [**Raspberry Pi Interface with PN532 NFC Module**](http://denethor.wlu.ca/raspberry_pi/rpi_PN532_nfc.shtml)
