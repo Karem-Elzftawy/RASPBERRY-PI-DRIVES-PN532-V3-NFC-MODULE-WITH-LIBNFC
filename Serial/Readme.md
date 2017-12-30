@@ -2,6 +2,7 @@
 
 ### Step One: Run raspi-conf
 From the command prompt enter the following command:
+
 `
 sudo raspi-config
 `
